@@ -1,3 +1,7 @@
+<!--
+    Counts for dashboard
+-->
+
 <?php 
     function get_counts(){
         $pdo = $GLOBALS['pdo'];

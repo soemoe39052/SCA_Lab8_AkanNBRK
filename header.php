@@ -1,3 +1,7 @@
+<!--
+    Header element
+-->
+
 <?php
     if(!defined('DirectAccess')) {
         header("location:index.php");
@@ -31,7 +35,7 @@
                     </div>
                 </li>
                 <li class="navbar-text">
-                    Welcome, <?php echo $session_user; ?>
+                    Welcome, <?php echo $_SESSION['loginUser']; ?>
                 </li>
             </ul>
         </div>

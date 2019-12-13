@@ -1,3 +1,8 @@
+<!--
+    Member management frame.
+    included in: members.php
+-->
+
 <?php
     if(!defined('DirectAccess')) {
         header("location:members.php");

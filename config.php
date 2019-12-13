@@ -1,3 +1,7 @@
+<!--
+    DB Connections
+-->
+
 <?php
     $ENCRYPTION_KEY = "RastgeleAnahtar";
 

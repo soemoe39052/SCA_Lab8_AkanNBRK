@@ -1,3 +1,7 @@
+<!--
+    Login page
+-->
+
 <?php
     Define('DirectAccess', TRUE);
     

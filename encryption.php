@@ -1,3 +1,7 @@
+<!--
+    Simple encryption/decryption class
+-->
+
 <?php
     if(!defined('DirectAccess')) {
         die('You cannot access this page directly.');
@@ -11,6 +15,8 @@
             return openssl_decrypt($string,"AES-128-ECB", $GLOBALS['ENCRYPTION_KEY']);
         }
 
+        // Name abbreviation.
+        // John Doe -> J. Doe
         function abbreviateName($name){
             $name = $this->decrypt($name);
             $name_array = explode(' ', $name);

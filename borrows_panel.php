@@ -1,3 +1,8 @@
+<!--
+   Loan management frame.
+   included in: borrows.php 
+-->
+
 <?php
     if(!defined('DirectAccess')) {
         header("location:borrows.php");

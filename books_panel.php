@@ -1,4 +1,10 @@
+<!--
+    Book management frame.
+    included in: books.php
+-->
+
 <?php
+    // Prevents direct access to this file
     if(!defined('DirectAccess')) {
         header("location:books.php");
     }
