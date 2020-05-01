@@ -2,8 +2,6 @@
 [![Stars](https://img.shields.io/github/stars/Ozencb/library-management-system)]()
 [![Forks](https://img.shields.io/github/forks/Ozencb/library-management-system)]()
 [![MIT](https://img.shields.io/github/license/Ozencb/library-management-system)](../master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/OzencBilgili)
-
 
 # 📚 Library Management System
 
