@@ -27,11 +27,3 @@ You can then import the ```library_db.sql``` script or run it as a query which s
 After checking and adjusting ports and login info on ```config.php``` you should be ready to launch the project.
 
 Login credentials are ```admin``` and ```admin```.
-
-## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/ozencb/Library-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/ozencb/Library-Management-System/issues)
-
-I will gladly help you out if you face any issues, and I would greatly appreciate it if you find and showany poor code, vulnerabilities etc.
-
-## License
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
