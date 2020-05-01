@@ -1,6 +1,5 @@
-[[![GitHub Issues](https://img.shields.io/github/issues/ozencb/Library-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/ozencb/Library-Management-System/issues)
-
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)]
+[![GitHub Issues](https://img.shields.io/github/issues/ozencb/Library-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/ozencb/Library-Management-System/issues)
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
 # 📚 Library Management System
 
