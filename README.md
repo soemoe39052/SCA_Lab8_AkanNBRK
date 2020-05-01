@@ -1,6 +1,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/Ozencb/library-management-system)](https://www.github.com/ozencb/Library-Management-System/issues)
-[![Stars](https://img.shields.io/github/stars/Ozencb/library-management-system)]()
-[![Forks](https://img.shields.io/github/forks/Ozencb/library-management-system)]()
+[![Stars](https://img.shields.io/github/stars/Ozencb/library-management-system)](https://github.com/Ozencb/react-hooks-demo)
+[![Forks](https://img.shields.io/github/forks/Ozencb/library-management-system)](https://github.com/Ozencb/react-hooks-demo)
 [![MIT](https://img.shields.io/github/license/Ozencb/library-management-system)](../master/LICENSE)
 
 # 📚 Library Management System
