@@ -7,7 +7,7 @@
 
     $DB_SERVER = 'localhost:3306';
     $DB_USERNAME = 'root';
-    $DB_PASSWORD = '';
+    $DB_PASSWORD = 'password';
     $DB_DATABASE = 'library_db';
 
     try {
