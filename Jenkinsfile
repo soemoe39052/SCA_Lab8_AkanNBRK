@@ -32,8 +32,8 @@ pipeline{
 		stage('Deploy') {
 
 			steps {
-				sh 'docker push alannbrk/php-image:latest'
-			}
+		              ansiblePlaybook credentialsId: 'root-server', disableHostKeyChecking: true, installation: 'ansible', inventory: '/etc/ansible/hosts', playbook: 'php.yml'
+  			}
 		}
 		
 			
