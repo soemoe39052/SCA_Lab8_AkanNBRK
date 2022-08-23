@@ -32,7 +32,7 @@ pipeline{
 		stage('Deploy') {
 
 			steps {
-		              ansiblePlaybook credentialsId: 'ubuntu', disableHostKeyChecking: true, installation: 'ansible', inventory: '/etc/ansible/hosts', playbook: 'php.yml'
+		              ansiblePlaybook credentialsId: 'root-server', disableHostKeyChecking: true, installation: 'ansible', inventory: '/etc/ansible/hosts', playbook: 'php.yml'
   			}
 		}
 		
