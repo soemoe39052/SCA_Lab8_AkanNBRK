@@ -54,7 +54,7 @@
 
 <body>
     <div class="login-group absolute-center night-fade-gradient">
-        <h5 class="text-center">Welcome to ACS Library Management System</h5>
+        <h5 class="text-center">Welcome to ACS Library Management System!</h5>
         </br>
         <form action = "" method = "post">
             <div class="form-group">
